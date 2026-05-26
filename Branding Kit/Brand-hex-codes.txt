@@ -4,6 +4,7 @@ Brand Hex Codes:
 1. Primary Background Color / Light Gray: #f1f1f1
 2. Secondary Color / Blue: #3982cb
 3. Accent Color / Dark Grey Blue: #1b2229 
+4. Secondary Color / Vivid Blue: #233dff
 
 Tagline: "Designing to Inform, Design to Provide."
 
